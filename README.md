@@ -21,8 +21,8 @@
 
 <h2 align="left"> Connect with Me <img width=80  src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif'> </h2>
 <p align="left">
-<a href="https://twitter.com/Vibhu068" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Vibhu Pandey" /></a>
-<a href="https://www.linkedin.com/in/vibhu-pandey-26a111209/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/89024718/136453292-a9b6c55a-a5b2-4512-8d8f-69c35ec61002.png" alt="Vibhu Pandey" width="4%" height="4%" /></a>
+<a href="https://twitter.com/Vibhu068"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v2.png" alt="Vibhu Pandey" /></a>
+<a href="https://www.linkedin.com/in/vibhu-pandey-26a111209/" ><img align="center" src="https://user-images.githubusercontent.com/89024718/136453292-a9b6c55a-a5b2-4512-8d8f-69c35ec61002.png" alt="Vibhu Pandey" width="4%" height="4%" /></a>
 </p>
 <br>
 <br>
